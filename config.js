@@ -1,7 +1,7 @@
 var config = {
 
     texts: [
-        "Little Imane Lbakay",
+        "Little Pretty Imane ",
         "Dazzling little Girl",
         "Strong Independant Baby Girl",
         "Prettiest Girl ever",
